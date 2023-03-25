@@ -7,7 +7,8 @@
   "author": "Neville Omangi",
   "permissions": [ "storage" ],
   "icons": {
-    "32": "favicon.png"
+    "32": "favicon-32.png",
+    "192": "favicon-192.png"
   },
   "chrome_url_overrides" : {
     "newtab": "new-tab.html"

@@ -61,6 +61,8 @@ main > p {
 
 details {
   padding-top: .5em;
+  max-width: 30rem;
+  transition: height 0.5s ease;
 }
 
 details > p {
